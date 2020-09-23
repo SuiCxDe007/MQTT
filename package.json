@@ -1,0 +1,17 @@
+{
+  "name": "jsonsql",
+  "version": "1.0.0",
+  "description": "json with sql and FS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SuiCxDe",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "file-system": "^2.2.2",
+    "fs": "0.0.1-security",
+    "mysql": "^2.18.1"
+  }
+}

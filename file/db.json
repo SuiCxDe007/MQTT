@@ -1,0 +1,44 @@
+{
+  "employee": [
+    {
+      "id": 2,
+      "name": "alva",
+      "email": "aa@dd.com"
+    },
+    {
+      "id": 3,
+      "name": "dsa",
+      "email": "alva@dd.com"
+    },
+    {
+      "id": 4,
+      "name": "dead",
+      "email": "silva@dd.com"
+    },
+    {
+      "id": 5,
+      "name": "vsaw",
+      "email": "ddsac@dd.com"
+    },
+    {
+      "id": 6,
+      "name": "qwera",
+      "email": "dcdsa@dd.com"
+    },
+    {
+      "id": 8,
+      "name": "kaveen madawa",
+      "email": "ddddasdad@dd.com"
+    },
+    {
+      "id": 12,
+      "name": "kusal",
+      "email": "rokes@dd.com"
+    },
+    {
+      "id": 13,
+      "name": "Charith",
+      "email": "charith@dd.com"
+    }
+  ]
+}

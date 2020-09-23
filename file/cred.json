@@ -1,0 +1,7 @@
+{
+    "host": "localhost",
+    "user": "pmauser",
+    "password": "1234",
+    "database": "employees",
+    "timezone": "UTC"
+}
